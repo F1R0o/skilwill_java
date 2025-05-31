@@ -1,3 +1,4 @@
+package davaleba6;
 public class Main {
     public static void main(String[] args) {
         String[] words = {"apple", "banana", "cherry", "dog", "elephant", "flower", "grape", "hat", "ice", "jungle"};
