@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args) {
         String[] words = {"apple", "banana", "cherry", "dog", "elephant", "flower", "grape", "hat", "ice", "jungle"};
 
-        for (int i = 0; i < words.length; i++) {
-            System.out.println(words[i]);
+        for (String word : words) {
+            System.out.println(word);
         }
 
         int[] numbers = {5, 10, 15, 20, 25, 30, 35, 40};
